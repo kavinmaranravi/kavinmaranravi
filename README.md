@@ -1,27 +1,40 @@
-# urban-octo-funicular
-Frontend Chrome extension built with JavaScript integrating local AI inference for context-aware productivity.
+# Hi, I'm Kavinmaran 👋
 
-# Kavinmaran Ravidurai
+Frontend & AI Engineer building AI-powered user interfaces and local-first applications.
 
-Frontend & AI Engineer focused on building AI-powered user interfaces and local-first applications.
+Founder of **Halanoi** — a privacy-first AI platform with mobile, web, and Chrome extension interfaces.
 
-## 🔧 Tech
-- React / React Native
-- JavaScript / TypeScript
-- HTML / CSS
-- REST APIs
-- Local LLM Integration
-- Chrome Extensions
+---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### Halanoi Focus Guard
-Chrome extension for AI-assisted productivity using local inference.  
-👉 https://github.com/YOURNAME/halanoi-focus-guard  
+### 🧠 Halanoi Web UI
+React frontend for AI interaction with local inference  
+🔗 https://github.com/kavinmaranravi/halanoi-web-ui  
 
-### Halanoi Mobile UI
-React Native interface for on-device LLM interaction.  
-👉 https://github.com/YOURNAME/halanoi-mobile-ui  
+### 🌐 Halanoi Focus Guard
+AI productivity Chrome extension  
+🔗 https://github.com/kavinmaranravi/halanoi-focus-guard  
 
-## 🌐 Links
-- LinkedIn: https://linkedin.com/in/kavinmaranravib80224202
+### 📱 Halanoi Mobile UI
+React Native interface for on-device LLM  
+🔗 https://github.com/kavinmaranravi/halanoi-mobile-ui  
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend:** React, JavaScript, TypeScript, HTML, CSS  
+**AI Integration:** Local LLM, Vector DB, MediaPipe  
+**Tools:** Git, Linux, Chrome Extension APIs  
+
+---
+
+## 🌍 Links
+
+- LinkedIn: https://linkedin.com/in/kavinmaranravib80224202  
+- Portfolio: https://kavinmaranravi.github.io  
+
+---
+
+⭐ Building AI interfaces for the local-first future
