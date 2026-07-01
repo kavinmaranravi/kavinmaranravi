@@ -33,7 +33,7 @@ React Native interface for on-device LLM
 ## 🌍 Links
 
 - LinkedIn: https://linkedin.com/in/kavinmaranravib80224202  
-- Portfolio: https://kavinmaranravi.github.io  
+
 
 ---
 
