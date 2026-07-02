@@ -8,14 +8,14 @@ Frontend & AI Engineer building interactive user interfaces, mobile ecosystems, 
 
 ## 🚀 Featured Projects
 
-### 🧠 [Halanoi Web UI](https://github.com/kavinmaranravi/halanoi-web-ui)
-React-based web dashboard built for fluid, low-latency interactions with on-device machine learning models.
+### 📱 [Halanoi Sovereign (Android App)](https://github.com/kavinmaranravi/HalanoiApp)
+An enterprise-grade, open-source focus lockdown utility for Android. Employs Device Owner policies (greying out factory resets, blocking uninstalls, freezing settings) and a local TFLite transformer model to inspect screen content in real-time.
 
-### 🛡️ [Halanoi Focus Guard](https://github.com/kavinmaranravi/halanoi-focus-guard)
-An AI-powered productivity Chrome extension that acts as an accountability coach, aggressively filtering distractions and protecting deep work focus loops.
+### 🛡️ [Halanoi Focus Guard (Chrome Extension)](https://github.com/kavinmaranravi/halanoi-focus-guard)
+An AI-powered productivity Chrome extension that acts as an accountability coach, aggressively filtering distractions, monitoring tab activity, and protecting deep work focus loops.
 
-### 📱 [Halanoi Mobile UI](https://github.com/kavinmaranravi/halanoi-mobile-ui)
-Cross-platform React Native interface optimized for local, on-device LLM architecture.
+### 🧠 [Halanoi AI Pipeline](https://github.com/kavinmaranravi/Halanoi_AI)
+The dataset curation and machine learning training pipeline for the local on-device Edge AI Screen Sniper model (using TensorFlow & TFLite) used across the Halanoi ecosystem.
 
 ---
 
