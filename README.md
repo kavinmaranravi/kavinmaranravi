@@ -15,7 +15,7 @@ An enterprise-grade, open-source focus lockdown utility for Android. Employs Dev
 An AI-powered productivity Chrome extension that acts as an accountability coach, aggressively filtering distractions, monitoring tab activity, and protecting deep work focus loops.
 
 ### 🧠 [Halanoi AI Pipeline](https://github.com/kavinmaranravi/Halanoi_AI)
-The dataset curation and machine learning training pipeline for the local on-device Edge AI Screen Sniper model (using TensorFlow & TFLite) used across the Halanoi ecosystem.
+The dataset curation and machine learning training pipeline for the local on-device Edge AI Screen Sniper model (using TensorFlow & TFLite) used in the Halanoi Sovereign Android app.
 
 ---
 
